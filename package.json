@@ -1,0 +1,24 @@
+{
+  "name": "sleepbag123.github.io",
+  "version": "1.0.0",
+  "description": "Site",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx eleventy",
+    "serve": "npx eleventy --serve",
+    "debug": "DEBUG=* npx eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sleepbag123/sleepbag123.github.io.git"
+  },
+  "author": "SleepBag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sleepbag123/sleepbag123.github.io/issues"
+  },
+  "homepage": "https://github.com/sleepbag123/sleepbag123.github.io#readme",
+  "devDependencies": {
+    "moment": "^2.29.1"
+  }
+}
