@@ -4,7 +4,7 @@
   "description": "Site",
   "main": "index.js",
   "scripts": {
-    "build":  "build": "env NODE_ENV=production npx eleventy --pathprefix 'sleepbag123.github.io'",
+    "build": "env NODE_ENV=production npx eleventy --pathprefix 'sleepbag123.github.io'",
     "serve": "npx eleventy --serve",
     "debug": "DEBUG=* npx eleventy"
   },
