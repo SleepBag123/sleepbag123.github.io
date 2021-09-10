@@ -152,6 +152,13 @@
   color: var(--bg4);
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 @import 'https://fonts.googleapis.com/css?family=Open+Sans';
 
 * {
@@ -163,8 +170,9 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	line-height: 1.75em;
 	font-size: 16px;
-	margin: 50;
-	padding: 0;
+	margin: auto;
+        max-width: 50em;
+	padding: 13px;
 	background-color: var(--bg_h);
 	color: var(--fg);
 }
