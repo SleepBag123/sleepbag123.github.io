@@ -159,7 +159,7 @@
   width: 50%;
 }
 
-@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+@import 'https://github.com/SleepBag123/sleepbag123.github.io/raw/main/_site/LinBiolinum_Rah.ttf';
 
 * {
 	-webkit-box-sizing: border-box;
@@ -167,7 +167,7 @@
 }
 
 body {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Linux Biolium', sans-serif;
 	line-height: 1.75em;
 	font-size: 16px;
 	margin: auto;
